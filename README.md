@@ -1,7 +1,7 @@
 ## Hi there, I'm Pawel 👋
 
 
-### I want to be a junoir FrontEnd Developer :)
+### I want to be a junior FrontEnd Developer :)
 
 - 🔭 I 
 - 🌱 I’m currently learning everything.... 
