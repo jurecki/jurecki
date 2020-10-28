@@ -2,7 +2,7 @@
 
 
 ### ⚡ Courses
-- 
+- Bootcamp Web Developer / Programing School Kodilla
 
 ### ✔️ I'm currently learning
 
