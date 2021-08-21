@@ -17,7 +17,7 @@
 - Building my portfolio website. 
 
 
-### 💡 Goals for 2020
+### 💡 Goals for 2021
 - Become skilled in JavaScript
 - Find some interesting project
 
